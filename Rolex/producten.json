@@ -2,7 +2,7 @@
     {
       "id": "1",
       "bestseller": false,
-      "image": "assets/AIR-KING.png",
+      "image": "assets/Air_King.png",
       "title": "AIR-KING",
       "tags": "Oyster, 40mm, Oystersteel",
       "descriptionIntro": "De Rolex Air-King is een eerbetoon aan de luchtvaartpioniers en de rol van de Oyster tijdens het grandioze verhaal van de luchtvaart.",
@@ -19,7 +19,7 @@
     {
       "id": "2",
       "bestseller": false,
-      "image": "assets/COSMOGRAPH DAYTONA.png",
+      "image": "assets/Cosmograph_Daytona.png",
       "title": "COSMOGRAPH DAYTONA",
       "tags": "Oyster, 40mm, yellow gold",
       "descriptionIntro": "De Oyster Perpetual Cosmograph Daytona is het ultieme multifunctionele horloge voor iedereen met een passie voor racen en snelheid.",
@@ -36,7 +36,7 @@
     {
       "id": "3",
       "bestseller": false,
-      "image": "assets/DATEJUST 31.png",
+      "image": "assets/Datejust_31.png",
       "title": "DATEJUST 31",
       "tags": "Oyster, 31mm, Oystersteel, Everose gold and diamonds",
       "descriptionIntro": "Deze Oyster Perpetual Datejust 31 van Oystersteel-staal en Everose-goud heeft een met een zilver bloemenmotief versierde en met diamanten bezette wijzerplaat en een Jubilee-band.",
@@ -53,7 +53,7 @@
     {
       "id": "4",
       "bestseller": false,
-      "image": "assets/DATEJUST 36.png",
+      "image": "assets/Datejust_36.png",
       "title": "DATEJUST 36",
       "tags": "Oyster, 36mm, Oystersteel and yellow gold",
       "descriptionIntro": "Deze Oyster Perpetual Datejust 36 van Oystersteel-staal en geelgoud heeft een gouden, gekarteld motief wijzerplaat en een Jubilee-band.",
@@ -70,7 +70,7 @@
     {
       "id": "5",
       "bestseller": false,
-      "image": "assets/DATEJUST 41.png",
+      "image": "assets/Datejust_41.png",
       "title": "DATEJUST 41",
       "tags": "Oyster, 41mm, Oystersteel",
       "descriptionIntro": "Deze Oyster Perpetual Datejust 41 van Oystersteel-staal heeft een helderblauwe, gekartelde wijzerplaat en een Oyster-band.",
@@ -87,7 +87,7 @@
     {
       "id": "6",
       "bestseller": false,
-      "image": "assets/LADY-DATEJUST.png",
+      "image": "assets/Lady_Datejust.png",
       "title": "LADY-DATEJUST",
       "tags": "Oyster, 28mm, white gold and diamonds",
       "descriptionIntro": "Deze Oyster Perpetual Lady-Datejust van 18 kt witgoud heeft een met diamanten belegde wijzerplaat en een met diamanten bezette President-band.",
@@ -104,7 +104,7 @@
     {
       "id": "7",
       "bestseller": false,
-      "image": "assets/DAY-DATE 40.png",
+      "image": "assets/Day_Date_40.png",
       "title": "DAY-DATE 40",
       "tags": "Oyster, 40mm, Platinum",
       "descriptionIntro": "De Oyster Perpetual Day-Date 40 van Platina met een ijsblauwe wijzerplaat, een Gekartelde bezel en een President-band.",
@@ -121,7 +121,7 @@
     {
       "id": "8",
       "bestseller": false,
-      "image": "assets/EXPLORER.png",
+      "image": "assets/Explorer.png",
       "title": "EXPLORER",
       "tags": "Oyster, 36mm, Oystersteel and yellow gold",
       "descriptionIntro": "De Oyster Perpetual Explorer van Oystersteel-staal en geelgoud heeft een kenmerkende zwarte wijzerplaat met een karakteristieke 3, 6, en 9 en met een Chromalight-display.",
@@ -138,7 +138,7 @@
     {
       "id": "9",
       "bestseller": false,
-      "image": "assets/EXPLORER II.png",
+      "image": "assets/Explorer_II.png",
       "title": "EXPLORER II",
       "tags": "Oyster, 42mm, Oystersteel",
       "descriptionIntro": "Deze Oyster Perpetual Explorer II van Oystersteel-staal met een Oyster-band heeft een zwarte wijzerplaat met een 24-uurswijzer in de vorm van een pijl en uurmarkeringen met een Chromalight-display.",
@@ -155,7 +155,7 @@
     {
       "id": "10",
       "bestseller": false,
-      "image": "assets/GMT-MASTER II.png",
+      "image": "assets/GMT_Master_II.png",
       "title": "GMT-MASTER II",
       "tags": "Oyster, 40mm, white gold",
       "descriptionIntro": "De GMT-Master, die in 1955 werd geïntroduceerd, werd ontworpen om twee verschillende tijdzones tegelijkertijd te tonen en was oorspronkelijk ontwikkeld als navigatie-instrument voor professionals die over de hele wereld reisden.",
@@ -172,7 +172,7 @@
     {
       "id": "11",
       "bestseller": false,
-      "image": "assets/MILGAUSS.png",
+      "image": "assets/Milgauss.png",
       "title": "MILGAUSS",
       "tags": "Oyster, 40mm, Oystersteel",
       "descriptionIntro": "De Oyster Perpetual Milgauss heeft een een diepzwarte wijzerplaat met lichtgevende uurmarkeringen en een groen saffierglas dat de wijzerplaat een unieke tint geeft.",
@@ -189,7 +189,7 @@
     {
       "id": "12",
       "bestseller": false,
-      "image": "assets/OYSTER PERPETUAL 41.png",
+      "image": "assets/Oyster_Perpetual_41.png",
       "title": "OYSTER PERPETUAL 41",
       "tags": "Oyster, 41mm, Oystersteel",
       "descriptionIntro": "De Oyster Perpetual 41 met een zilverkleurige wijzerplaat en een Oyster-band.",
@@ -206,24 +206,7 @@
     {
       "id": "13",
       "bestseller": false,
-      "image": "assets/SEA-DWELLER.png",
-      "title": "SEA-DWELLER",
-      "tags": "Oyster, 43mm, Oystersteel and yellow gold",
-      "descriptionIntro": "De Oyster Perpetual Sea-Dweller van Oystersteel-staal en geelgoud met een Cerachrom-ring van zwarte keramiek en een Oyster-band.",
-      "descriptionText": "Hij heeft een kenmerkende zwarte wijzerplaat en brede lichtgevende uurmarkeringen. De Rolex Sea-Dweller is waterdicht tot een diepte van 1220 meter en heeft een unidirectioneel draaibare bezel met 60-minutenverdeling. Het is een van de extreem sterke duikhorloges die Rolex heeft ontworpen voor diepzeeonderzoek.",
-      "price": "€ 16 200.00",
-      "btw": "21%",
-      "details": {
-        "braceletMaterial": "oyster",
-        "case": "43 mm",
-        "caseMaterial": "Oystersteel and yellow gold"
-      },
-      "stock": "18"
-    },
-    {
-      "id": "14",
-      "bestseller": false,
-      "image": "assets/ROLEX DEEPSEA.png",
+      "image": "assets/Rolex_Deepsea.png",
       "title": "ROLEX DEEPSEA",
       "tags": "Oyster, 44mm, Oystersteel",
       "descriptionIntro": "De Oyster Perpetual Rolex Deepsea van Oystersteel-staal met een Cerachrom-ring van zwarte keramiek en een Oyster-band.",
@@ -238,9 +221,26 @@
       "stock": "16"
     },
     {
+      "id": "14",
+      "bestseller": false,
+      "image": "assets/Sea_Dweller.png",
+      "title": "SEA-DWELLER",
+      "tags": "Oyster, 43mm, Oystersteel and yellow gold",
+      "descriptionIntro": "De Oyster Perpetual Sea-Dweller van Oystersteel-staal en geelgoud met een Cerachrom-ring van zwarte keramiek en een Oyster-band.",
+      "descriptionText": "Hij heeft een kenmerkende zwarte wijzerplaat en brede lichtgevende uurmarkeringen. De Rolex Sea-Dweller is waterdicht tot een diepte van 1220 meter en heeft een unidirectioneel draaibare bezel met 60-minutenverdeling. Het is een van de extreem sterke duikhorloges die Rolex heeft ontworpen voor diepzeeonderzoek.",
+      "price": "€ 16 200.00",
+      "btw": "21%",
+      "details": {
+        "braceletMaterial": "oyster",
+        "case": "43 mm",
+        "caseMaterial": "Oystersteel and yellow gold"
+      },
+      "stock": "18"
+    },
+    {
       "id": "15",
       "bestseller": false,
-      "image": "assets/SKY-DWELLER.png",
+      "image": "assets/Sky_Dweller.png",
       "title": "SKY-DWELLER",
       "tags": "Oyster, 42mm, Oystersteel and yellow gold",
       "descriptionIntro": "De Oyster Perpetual Sky-Dweller van Oystersteel-staal en geelgoud met een champagnekleurige wijzerplaat en een Oyster-band.",
@@ -257,7 +257,7 @@
     {
       "id": "16",
       "bestseller": false,
-      "image": "assets/SUBMARINER%20DATE.png",
+      "image": "assets/Submariner_Date.png",
       "title": "SUBMARINER DATE",
       "tags": "Oyster, 41mm, Oystersteel and yellow gold",
       "descriptionInro": "De Oyster Perpetual Submariner Date van Oystersteel-staal en geelgoud met een Cerachrom-ring van blauwe keramiek en een koningsblauwe wijzerplaat met brede, lichtgevende uurmarkeringen.",
@@ -274,7 +274,7 @@
     {
       "id": "17",
       "bestseller": false,
-      "image": "assets/YACHT-MASTER 37.png",
+      "image": "assets/Yacht_Master_37.png",
       "title": "YACHT-MASTER 37",
       "tags": "Oyster, 37mm, Oystersteel and Platinum",
       "descriptionIntro": "De Oyster Perpetual Yacht-Master 37 van Oystersteel-staal en platina met een Oyster-band.",
@@ -291,7 +291,7 @@
     {
       "id": "18",
       "bestseller": false,
-      "image": "assets/YACHT-MASTER 42.png",
+      "image": "assets/Yacht_Master_42.png",
       "title": "YACHT-MASTER 42",
       "tags": "Oyster, 42mm, yellow gold",
       "descriptionIntro": "De Oyster Perpetual Yacht-Master 42 van 18 kt geelgoud, met een zwarte wijzerplaat en een Oysterflex-band.",
