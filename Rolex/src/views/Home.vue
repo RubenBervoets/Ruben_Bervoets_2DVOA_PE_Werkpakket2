@@ -1,6 +1,6 @@
 <template>
     <header>
-        "Hello"
+        "Homepagina"
     </header>
     <div>
         <RouterView>{{ PopularProducts }}</RouterView>
@@ -9,6 +9,5 @@
 
 <script setup>
 import { RouterView } from 'vue-router';
-import PopularProducts from '../components/PopularProducts.vue';
-
+// import PopularProducts from '@/components/PopularProducts.vue';
 </script>
