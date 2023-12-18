@@ -9,5 +9,5 @@
 
 <script setup>
 import { RouterView } from 'vue-router';
-// import PopularProducts from '@/components/PopularProducts.vue';
+import PopularProducts from '@/components/PopularProducts.vue';
 </script>

@@ -1,10 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '@/views/Home.vue'
-import Productpage from '@/views/Productpage.vue'
-import ProductDetail from '@/views/ProductDetail.vue'
-// import Login from './views/Login'
-// import Winkelmandje from './views/Winkelmandje'
-// import PageNotFoundView from '@/views/PageNotFoundView.vue'
+import Home from '../views/Home.vue'
+import Productpage from '../views/Productpage.vue'
+import ProductDetail from '../views/ProductDetail.vue'
+import Login from '../views/Login.vue'
+// import Winkelmandje from '../views/Winkelmandje.vue'
+// import PageNotFoundView from '../views/PageNotFoundView.vue'
 
 const router = createRouter({
     history: createWebHistory(),
@@ -22,6 +22,14 @@ const router = createRouter({
             name: 'ProductDetail',
             component: ProductDetail
         },
+        {
+            path: '/Login',
+            component: Login
+        },
+        // {
+        //     path: '/Winkelmandje',
+        //     component: Winkelmandje
+        // },
         // {
         //     path: '/:notFound(.*)',
         //     component: PageNotFoundView

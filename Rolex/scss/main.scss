@@ -1,0 +1,17 @@
+@import "navbar";
+@import "footer";
+@import "home";
+@import "productpage";
+@import "productDetail";
+@import "login";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: RolexFont-S, Poppins, sans-serif;
+  }
+  
+body {
+    background: #000000;
+  }

@@ -6,7 +6,8 @@
 </template>
 
 <script>
-import ProductCard from "@/components/ProductCard.vue";
+import ProductCard from "../components/ProductCard.vue";
+import productJson from "../../producten.json";
 
 export default {
     components: {
@@ -14,7 +15,7 @@ export default {
     },
     data() {
         return {
-            producten: [],
+            producten: productJson,
         };
     },
 }
