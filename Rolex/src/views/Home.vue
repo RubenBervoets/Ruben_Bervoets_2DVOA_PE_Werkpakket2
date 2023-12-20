@@ -1,13 +1,12 @@
 <template>
     <header>
-        homepagina
+        <img class="jumbotron" src="assets/RolexJumbotron.jpg" alt="Foto Rolex">
     </header>
-    <div>
+    <!-- <div>
         <RouterView>{{ PopularProducts }}</RouterView>
-    </div>
+    </div> -->
 </template>
 
 <script>
-import { RouterView } from 'vue-router';
-import PopularProducts from '../components/PopularProducts.vue';
+// import { RouterView } from 'vue-router';
 </script>

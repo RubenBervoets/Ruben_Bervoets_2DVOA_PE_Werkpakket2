@@ -7,6 +7,7 @@
                 uitgebreide selectie Rolex-horloges voor een perfecte combinatie van stijl en functionaliteit.</p>
             <!-- <product-card v-for="product in producten" :key="product.id" :product="product" /> -->
             <product-card v-for="(product, index) in paginatedProducts" :key="product.id" :product="product" />
+
             <div class="pagination">
                 <button @click="prevPage" :disabled="currentPage === 1">Vorige</button>
                 <span>{{ currentPage }}</span>

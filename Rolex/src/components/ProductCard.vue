@@ -6,9 +6,12 @@
                     <img :src="product.image" alt="Foto kan niet worden geladen">
                 </div>
                 <div class="product-btns">
-                    <button type="button" class="btn-more"><span><i class="fas fa-plus"></i></span> Bekijk model
-                    </button>
-                    <button type="button" class="btn-cart"><span><i class="fas fa-shopping-cart"></i></span> In winkelwagen
+                    <router-link :to="{ name: 'productDetail', params: { id: product.id } }">
+                        <button type="button" class="btn-more">
+                            <span><i class="fas fa-plus"></i></span> {{ button1 }}
+                        </button>
+                    </router-link>
+                    <button type="button" class="btn-cart"><span><i class="fas fa-shopping-cart"></i></span> {{ button2 }}
                     </button>
                 </div>
             </div>
@@ -16,7 +19,6 @@
                 <div class="product-info-top">
                     <h2 class="product-name">{{ product.title }}</h2>
                 </div>
-                <!-- <a class="product-description">Oyster, 41mm, Oystersteel</a> -->
                 <a class="product-description">{{ product.details.braceletMaterial }}, {{ product.details.case }}, {{
                     product.details.caseMaterial }}</a>
                 <p class="product-price">{{ product.price }}</p>
@@ -27,6 +29,12 @@
 
 <script>
 export default {
+    data() {
+        return {
+            button1: "Bekijk model",
+            button2: "In winkelwagen"
+        }
+    },
     props: {
         product: Object
     }
