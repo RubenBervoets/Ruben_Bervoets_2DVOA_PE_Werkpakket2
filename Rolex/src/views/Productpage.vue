@@ -30,7 +30,6 @@
                         </ul>
                     </li>
                 </ul>
-                <button @click="applyFilters" class="filter-button">Filter</button>
                 <button @click="resetFilters" class="reset-button">Reset</button>
             </div>
             <product-card v-for="(product, index) in paginatedProducts" :key="product.id" :product="product" />
@@ -100,9 +99,6 @@ export default {
             if (this.currentPage > 1) {
                 this.currentPage--;
             }
-        },
-        applyFilters() {
-            this.currentPage = 1;
         },
         resetFilters() {
             // Reset selected filters

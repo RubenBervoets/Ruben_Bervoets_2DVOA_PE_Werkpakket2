@@ -1,16 +1,14 @@
 [
     {
       "id": "1",
-      "bestseller": false,
       "image": "assets/Air_King.png",
       "title": "AIR-KING",
-      "tags": "Oyster, 40mm, Oystersteel",
       "descriptionIntro": "De Rolex Air-King is een eerbetoon aan de luchtvaartpioniers en de rol van de Oyster tijdens het grandioze verhaal van de luchtvaart.",
       "descriptionText": "Met zijn 40 mm kast van Oystersteel-staal, zijn Oyster-band met massieve schakels en zijn kenmerkende zwarte wijzerplaat, laat de Air‑King het luchtvaarterfgoed van de oorspronkelijke Rolex Oyster voortleven.",
       "price": "€ 7 000.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "40 mm",
         "caseMaterial": "Oystersteel"
       },
@@ -18,67 +16,59 @@
     },
     {
       "id": "2",
-      "bestseller": false,
       "image": "assets/Cosmograph_Daytona.png",
       "title": "COSMOGRAPH DAYTONA",
-      "tags": "Oyster, 40mm, yellow gold",
       "descriptionIntro": "De Oyster Perpetual Cosmograph Daytona is het ultieme multifunctionele horloge voor iedereen met een passie voor racen en snelheid.",
       "descriptionText": "De Cosmograph Daytona, die werd geïntroduceerd in 1963, is ontworpen om aan de eisen van professionele autocoureurs te voldoen. Het is een icoon dat in naam en functie voor altijd verbonden zal zijn met de veeleisende wereld van het autoracen. Meer dan vijftig jaar na zijn creatie blijft de Cosmograph Daytona een klasse apart binnen de sportchronografen en blijft hij zich verder ontwikkelen.",
       "price": "€ 39 900.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "40 mm",
-        "caseMaterial": "yellow gold"
+        "caseMaterial": "Yellow gold"
       },
       "stock": "8"
     },
     {
       "id": "3",
-      "bestseller": false,
       "image": "assets/Datejust_31.png",
       "title": "DATEJUST 31",
-      "tags": "Oyster, 31mm, Oystersteel, Everose gold and diamonds",
       "descriptionIntro": "Deze Oyster Perpetual Datejust 31 van Oystersteel-staal en Everose-goud heeft een met een zilver bloemenmotief versierde en met diamanten bezette wijzerplaat en een Jubilee-band.",
       "descriptionText": "De wijzerplaat heeft 24 diamanten in 18 kt gouden zettingen. De lichtreflecties op de kastzijkanten en de bandaanzetten benadrukken het elegante profiel van de 31 mm Oyster-kast, die is uitgerust met een met diamanten bezette bezel. Esthetisch gezien is de Datejust al jaren bij de tijd, terwijl hij aan de codes blijft voldoen die hem, met name in de traditionele versies, tot een van de bekendste en meest herkenbare horloges maken.",
       "price": "€ 19 400.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "31 mm",
-        "caseMaterial": "Oystersteel, Everose gold and diamonds"
+        "caseMaterial": "Oystersteel, Everose gold and Diamonds"
       },
       "stock": "15"
     },
     {
       "id": "4",
-      "bestseller": false,
       "image": "assets/Datejust_36.png",
       "title": "DATEJUST 36",
-      "tags": "Oyster, 36mm, Oystersteel and yellow gold",
       "descriptionIntro": "Deze Oyster Perpetual Datejust 36 van Oystersteel-staal en geelgoud heeft een gouden, gekarteld motief wijzerplaat en een Jubilee-band.",
       "descriptionText": "De lichtreflecties op de kastzijkanten en de bandaanzetten benadrukken het elegante profiel van de 36 mm Oyster-kast, die is uitgerust met een gekartelde bezel. Esthetisch gezien is de Datejust al jaren bij de tijd, terwijl hij aan de codes blijft voldoen die hem, met name in de traditionele versies, tot een van de bekendste en meest herkenbare horloges maken.",
       "price": "€ 11 400.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "36 mm",
-        "caseMaterial": "Oystersteel and yellow gold"
+        "caseMaterial": "Oystersteel and Yellow gold"
       },
       "stock": "21"
     },
     {
       "id": "5",
-      "bestseller": false,
       "image": "assets/Datejust_41.png",
       "title": "DATEJUST 41",
-      "tags": "Oyster, 41mm, Oystersteel",
       "descriptionIntro": "Deze Oyster Perpetual Datejust 41 van Oystersteel-staal heeft een helderblauwe, gekartelde wijzerplaat en een Oyster-band.",
       "descriptionText": "De lichtreflecties op de kastzijkanten en de bandaanzetten benadrukken het elegante profiel van de 41 mm Oyster-kast, die is uitgerust met een gladde bezel. Esthetisch gezien is de Datejust al jaren bij de tijd, terwijl hij aan de codes blijft voldoen die hem, met name in de traditionele versies, tot een van de bekendste en meest herkenbare horloges maken.",
       "price": "€ 7 500.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "41 mm",
         "caseMaterial": "Oystersteel"
       },
@@ -86,33 +76,29 @@
     },
     {
       "id": "6",
-      "bestseller": false,
       "image": "assets/Lady_Datejust.png",
       "title": "LADY-DATEJUST",
-      "tags": "Oyster, 28mm, white gold and diamonds",
       "descriptionIntro": "Deze Oyster Perpetual Lady-Datejust van 18 kt witgoud heeft een met diamanten belegde wijzerplaat en een met diamanten bezette President-band.",
       "descriptionText": "De lichtreflecties op de kastzijkanten en de bandaanzetten benadrukken het elegante profiel van de  28 mm Oyster-kast, die is uitgerust met een met diamanten bezette bezel. De Lady-Datejust is Rolex’ klassieke dameshorloge en is afgeleid van de Datejust. Dit emblematische model is synoniem met stijl en nauwkeurige tijdregistratie.",
       "price": "Price on request",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "28 mm",
-        "caseMaterial": "white gold and diamonds"
+        "caseMaterial": "White gold and Diamonds"
       },
       "stock": "4"
     },
     {
       "id": "7",
-      "bestseller": false,
       "image": "assets/Day_Date_40.png",
       "title": "DAY-DATE 40",
-      "tags": "Oyster, 40mm, Platinum",
       "descriptionIntro": "De Oyster Perpetual Day-Date 40 van Platina met een ijsblauwe wijzerplaat, een Gekartelde bezel en een President-band.",
       "descriptionText": "Toen de Day-Date voor het eerst werd gepresenteerd in 1956, was het het eerste horloge waarop de naam van de dag van de week volledig werd uitgeschreven.",
       "price": "Price on request",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "40 mm",
         "caseMaterial": "Platinum"
       },
@@ -120,33 +106,29 @@
     },
     {
       "id": "8",
-      "bestseller": false,
       "image": "assets/Explorer.png",
       "title": "EXPLORER",
-      "tags": "Oyster, 36mm, Oystersteel and yellow gold",
       "descriptionIntro": "De Oyster Perpetual Explorer van Oystersteel-staal en geelgoud heeft een kenmerkende zwarte wijzerplaat met een karakteristieke 3, 6, en 9 en met een Chromalight-display.",
       "descriptionText": "De duidelijk afleesbare uurmarkeringen, het uiterst bestendige Oystersteel-staal en de waterdichtheid zorgden ervoor dat dit multifunctionele horloge hét horloge voor ontdekkingsreizen werd.",
       "price": "€ 11 750.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "36 mm",
-        "caseMaterial": "Oystersteel and yellow gold"
+        "caseMaterial": "Oystersteel and Yellow gold"
       },
       "stock": "18"
     },
     {
       "id": "9",
-      "bestseller": false,
       "image": "assets/Explorer_II.png",
       "title": "EXPLORER II",
-      "tags": "Oyster, 42mm, Oystersteel",
       "descriptionIntro": "Deze Oyster Perpetual Explorer II van Oystersteel-staal met een Oyster-band heeft een zwarte wijzerplaat met een 24-uurswijzer in de vorm van een pijl en uurmarkeringen met een Chromalight-display.",
       "descriptionText": "Dankzij de duidelijk afleesbare wijzerplaat, het uiterst bestendige Oystersteel-staal en de waterdichtheid is dit hét horloge voor extreme omstandigheden.",
       "price": "€ 9 650.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "42 mm",
         "caseMaterial": "Oystersteel"
       },
@@ -154,33 +136,29 @@
     },
     {
       "id": "10",
-      "bestseller": false,
       "image": "assets/GMT_Master_II.png",
       "title": "GMT-MASTER II",
-      "tags": "Oyster, 40mm, white gold",
       "descriptionIntro": "De GMT-Master, die in 1955 werd geïntroduceerd, werd ontworpen om twee verschillende tijdzones tegelijkertijd te tonen en was oorspronkelijk ontwikkeld als navigatie-instrument voor professionals die over de hele wereld reisden.",
       "descriptionText": "Zijn opvolger, de GMT-Master II, werd gepresenteerd in 1982 en werd voor een eenvoudigere bediening voorzien van een nieuw uurwerk. De combinatie van ongeëvenaarde functionaliteit, robuustheid en een direct herkenbaar uiterlijk heeft ervoor gezorgd dat het horloge geliefd is geworden bij een nog grotere groep wereldreizigers.",
       "price": "€ 37 400.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "40 mm",
-        "caseMaterial": "white gold"
+        "caseMaterial": "White gold"
       },
       "stock": "8"
     },
     {
       "id": "11",
-      "bestseller": false,
       "image": "assets/Milgauss.png",
       "title": "MILGAUSS",
-      "tags": "Oyster, 40mm, Oystersteel",
       "descriptionIntro": "De Oyster Perpetual Milgauss heeft een een diepzwarte wijzerplaat met lichtgevende uurmarkeringen en een groen saffierglas dat de wijzerplaat een unieke tint geeft.",
       "descriptionText": "Met zijn strakke lijnen en suggestieve oranje secondewijzer in de vorm van een bliksemschicht als herinnering aan het originele model, is de Milgauss in een oogopslag te herkennen.",
       "price": "€ 8 700.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "40 mm",
         "caseMaterial": "Oystersteel"
       },
@@ -188,16 +166,14 @@
     },
     {
       "id": "12",
-      "bestseller": false,
       "image": "assets/Oyster_Perpetual_41.png",
       "title": "OYSTER PERPETUAL 41",
-      "tags": "Oyster, 41mm, Oystersteel",
       "descriptionIntro": "De Oyster Perpetual 41 met een zilverkleurige wijzerplaat en een Oyster-band.",
       "descriptionText": "Door hun uiterlijke kenmerken onderscheiden de Oyster Perpetual-modellen zich als symbolen van universele en klassieke stijl. Zij belichamen tijdloze vorm en functie, iets wat stevig geworteld ligt in de baanbrekende oorsprong van Rolex.",
       "price": "€ 5 800.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "41 mm",
         "caseMaterial": "Oystersteel"
       },
@@ -205,16 +181,14 @@
     },
     {
       "id": "13",
-      "bestseller": false,
       "image": "assets/Rolex_Deepsea.png",
       "title": "ROLEX DEEPSEA",
-      "tags": "Oyster, 44mm, Oystersteel",
       "descriptionIntro": "De Oyster Perpetual Rolex Deepsea van Oystersteel-staal met een Cerachrom-ring van zwarte keramiek en een Oyster-band.",
       "descriptionText": "Hij heeft een D-blue wijzerplaat en brede lichtgevende uurmarkeringen. De Rolex Deepsea is waterdicht tot een diepte van 3900 meter en heeft een unidirectioneel draaibare bezel met 60-minutenverdeling. Het is een van de extreem sterke duikhorloges die Rolex heeft ontworpen voor diepzeeonderzoek.",
       "price": "€ 13 500.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "44 mm",
         "caseMaterial": "Oystersteel"
       },
@@ -222,67 +196,59 @@
     },
     {
       "id": "14",
-      "bestseller": false,
       "image": "assets/Sea_Dweller.png",
       "title": "SEA-DWELLER",
-      "tags": "Oyster, 43mm, Oystersteel and yellow gold",
       "descriptionIntro": "De Oyster Perpetual Sea-Dweller van Oystersteel-staal en geelgoud met een Cerachrom-ring van zwarte keramiek en een Oyster-band.",
       "descriptionText": "Hij heeft een kenmerkende zwarte wijzerplaat en brede lichtgevende uurmarkeringen. De Rolex Sea-Dweller is waterdicht tot een diepte van 1220 meter en heeft een unidirectioneel draaibare bezel met 60-minutenverdeling. Het is een van de extreem sterke duikhorloges die Rolex heeft ontworpen voor diepzeeonderzoek.",
       "price": "€ 16 200.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "43 mm",
-        "caseMaterial": "Oystersteel and yellow gold"
+        "caseMaterial": "Oystersteel and Yellow gold"
       },
       "stock": "18"
     },
     {
       "id": "15",
-      "bestseller": false,
       "image": "assets/Sky_Dweller.png",
       "title": "SKY-DWELLER",
-      "tags": "Oyster, 42mm, Oystersteel and yellow gold",
       "descriptionIntro": "De Oyster Perpetual Sky-Dweller van Oystersteel-staal en geelgoud met een champagnekleurige wijzerplaat en een Oyster-band.",
       "descriptionText": "Dit opvallende horloge onderscheidt zich door zijn tweede tijdzone op een niet-gecentreerde kleine schijf op de wijzerplaat. Bovendien is het innovatieve systeem om met behulp van de draaibare Ring Command-bezel functies in te stellen alleen bij Rolex te vinden.",
       "price": "€ 17 300.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "42 mm",
-        "caseMaterial": "Oystersteel and yellow gold"
+        "caseMaterial": "Oystersteel and Yellow gold"
       },
       "stock": "15"
     },
     {
       "id": "16",
-      "bestseller": false,
       "image": "assets/Submariner_Date.png",
       "title": "SUBMARINER DATE",
-      "tags": "Oyster, 41mm, Oystersteel and yellow gold",
       "descriptionInro": "De Oyster Perpetual Submariner Date van Oystersteel-staal en geelgoud met een Cerachrom-ring van blauwe keramiek en een koningsblauwe wijzerplaat met brede, lichtgevende uurmarkeringen.",
       "descriptionText": "Hij is uitgerust met een unidirectioneel draaibare bezel en een massieve Oyster-schakelband. De nieuwste generatie Submariner en Submariner Date blijven trouw aan het oorspronkelijke model uit 1953. De Submariner markeerde een historisch keerpunt in de horlogewereld en werd de absolute referentie voor duikhorloges.",
       "price": "€ 14 000.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "41 mm",
-        "caseMaterial": "Oystersteel and yellow gold"
+        "caseMaterial": "Oystersteel and Yellow gold"
       },
       "stock": "20"
     },
     {
       "id": "17",
-      "bestseller": false,
       "image": "assets/Yacht_Master_37.png",
       "title": "YACHT-MASTER 37",
-      "tags": "Oyster, 37mm, Oystersteel and Platinum",
       "descriptionIntro": "De Oyster Perpetual Yacht-Master 37 van Oystersteel-staal en platina met een Oyster-band.",
       "descriptionText": "Dit model is uitgerust met een leigrijze wijzerplaat en een bidirectioneel draaibare bezel van platina met 60-minutenverdeling en cijfers in reliëf. De waterdichtheid en de robuustheid van dit model maken hem het ideale watersporthorloge, met name voor de zeilsport.",
       "price": "€ 11 000.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "37 mm",
         "caseMaterial": "Oystersteel and Platinum"
       },
@@ -290,33 +256,29 @@
     },
     {
       "id": "18",
-      "bestseller": false,
       "image": "assets/Yacht_Master_42.png",
       "title": "YACHT-MASTER 42",
-      "tags": "Oyster, 42mm, yellow gold",
       "descriptionIntro": "De Oyster Perpetual Yacht-Master 42 van 18 kt geelgoud, met een zwarte wijzerplaat en een Oysterflex-band.",
       "descriptionText": "Dit model is uitgerust met een bidirectioneel draaibare bezel met 60-minutenverdeling, met een matzwarte keramische Cerachrom-ring en gepolijste cijfers en schaalverdeling in reliëf, die perfect bij de wijzerplaat past. De waterdichtheid en de robuustheid van dit model maken het het ideale watersporthorloge, met name voor de zeilsport.",
       "price": "€ 26 900.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "42 mm",
-        "caseMaterial": "yellow gold"
+        "caseMaterial": "Yellow gold"
       },
       "stock": "10"
     },
     {
       "id": "19",
-      "bestseller": false,
       "image": "assets/YACHT-MASTER II.png",
       "title": "YACHT-MASTER II",
-      "tags": "Oyster, 44mm, Oystersteel and Everose gold",
       "descriptionIntro": "De Oyster Perpetual Yacht-Master II van 18 kt geelgoud met een Oyster-band en een bidirectioneel draaibare bezel met blauwe Cerachrom-ring.",
       "descriptionText": "De Yacht-Master II is de enige chronograaf met een mechanisch geheugen die is uitgerust met een bezel die dienstdoet als programmeerbare countdown. Het is een essentieel hulpmiddel voor schippers die hun actiemomenten willen meten.",
       "price": "€ 28 300.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "oyster",
+        "braceletMaterial": "Oyster",
         "case": "44 mm",
         "caseMaterial": "Oystersteel and Everose gold"
       },
@@ -324,16 +286,14 @@
     },
     {
       "id": "20",
-      "bestseller": false,
       "image": "assets/CELLINI MOONPHASE.png",
       "title": "CELLINI MOONPHASE",
-      "tags": "39mm, 18 ct Everose gold, polished finish",
       "descriptionIntro": "De Cellini heeft de oneindige elegantie van een traditioneel uurwerk gecombineerd met een modern tintje. De naam van het horloge is geïnspireerd op de Italiaanse renaissancekunstenaar Benvenuto Cellini",
       "descriptionText": "Deze collectie combineert het beste van de kennis van Rolex en zijn streven naar perfectie met een aanpak die het erfgoed van horlogevakmanschap in zijn meest tijdloze vorm naar een hoger plan brengt. Sobere en verfijnde lijnen, nobele materialen, luxueuze afwerkingen: elk detail van de Cellini respecteert de regels van de kunst van het horlogevakmanschap.",
       "price": "€ 25 400.00",
       "btw": "21%",
       "details": {
-        "braceletMaterial": "tobacco leather",
+        "braceletMaterial": "Tobacco leather",
         "case": "39 mm",
         "caseMaterial": "18 ct Everose gold"
       },
