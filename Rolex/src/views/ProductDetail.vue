@@ -20,10 +20,11 @@
             </div>
             <div class="col-2">
                 <img class="brand" src="/assets/RolexLogoKleur.png">
-                <h1>product naam</h1>
-                <h4>prijs van product</h4>
+                <h1>naam product</h1>
+                <h4>prijs product</h4>
                 <input type="number" value="1">
-                <a href="" class="btn"><span><i class="fas fa-shopping-cart"></i></span> In winkelwagen</a>
+                <!-- <a href="" class="btn"><span><i class="fas fa-shopping-cart"></i></span> In winkelwagen</a> -->
+                <a @click="addToCart" class="btn"><span><i class="fas fa-shopping-cart"></i></span> In winkelwagen</a>
                 <p class="detail">product.descriptionText</p>
                 <h3>Product details<i class="fa fa-indent"></i></h3><br>
                 <p>- Oyster<br>- 40mm<br>- Oystersteel-staal</p>
@@ -36,6 +37,12 @@
 export default {
     props: {
         product: Object
-    }
+    },
+    methods: {
+    addToCart() {
+      const cartStore = cartStore();
+      cartStore.addToCart(this.product);
+    },
+  },
 };
 </script>
