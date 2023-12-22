@@ -1,10 +1,8 @@
 <template>
     <div class="products">
         <div class="container">
-            <h1 class="lg-title">Rolex watches</h1>
-            <p class="text-light">Bekijk de prestigieuze en uiterst nauwkeurige uurwerken uit de Rolex-collectie. Rolex
-                biedt een ruim assortiment van Oyster Perpetual- en Cellini-horloges voor aan elke pols. Ontdek de
-                uitgebreide selectie Rolex-horloges voor een perfecte combinatie van stijl en functionaliteit.</p>
+            <h1 class="lg-title">{{ title }}</h1>
+            <p class="text-light">{{ text }}</p>
             <div class="filter-container">
                 <ul class="filter-options">
                     <li>
@@ -33,12 +31,13 @@
                 <button @click="resetFilters" class="reset-button">{{ resetButton }}</button>
             </div>
             <div class="product-items">
-            <product-card v-for="(product, index) in paginatedProducts" :key="product.id" :product="product" />
+                <product-card v-for="(product, index) in paginatedProducts" :key="product.id" :product="product" />
             </div>
-            <div class="pagination">
-                <button @click="prevPage" :disabled="currentPage === 1">Vorige</button>
-                <span>{{ currentPage }}</span>
-                <button @click="nextPage" :disabled="currentPage === totalPages">Volgende</button>
+            <div>
+                <div class="pagination">
+                    <button @click="prevPage" :disabled="currentPage === 1">Vorige</button>
+                    <button @click="nextPage" :disabled="currentPage === totalPages">Volgende</button>
+                </div>
             </div>
         </div>
     </div>
@@ -54,6 +53,8 @@ export default {
     inject: ['producten'],
     data() {
         return {
+            title: "Rolex watches",
+            text: "Bekijk de prestigieuze en uiterst nauwkeurige uurwerken uit de Rolex-collectie. Rolex biedt een ruim assortiment van Oyster Perpetual- en Cellini-horloges voor aan elke pols. Ontdek de uitgebreide selectie Rolex-horloges voor een perfecte combinatie van stijl en functionaliteit.",
             filterLabel1: "Type materiaal:",
             filterLabel2: "Grootte kast:",
             resetButton: "Reset",

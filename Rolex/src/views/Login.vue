@@ -6,11 +6,11 @@
                 <form class="loginForm" v-on:submit.prevent="submitForm()" action="">
                     <div class="txt_field">
                         <label for="email">{{ label1 }}</label>
-                        <input type="email" name="email" id="email">
+                        <input type="email" name="email" id="email" required>
                     </div>
                     <div class="txt_field">
                         <label for="password">{{ label2 }}</label>
-                        <input type="password" name="password" id="password">
+                        <input type="password" name="password" id="password" required>
                     </div>
                     <div class="pass">{{ forgotPass }}</div>
                     <div class="form-action">
