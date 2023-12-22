@@ -1,10 +1,12 @@
 <template>
-    <div class="popular-products">
-        <h2>Popular Products</h2>
-        <div class="popular-products-list">
-            <div v-for="(product, index) in popularProducts" :key="product.id" class="popular-product">
-                <!-- Use your existing ProductCard component or replicate the structure -->
-                <product-card :product="product" />
+    <div class="products">
+        <div class="container">
+            <h1 class="lg-title">Onze bestsellers</h1>
+            <p class="text-light">Deze horloges vallen het beste in de smaak bij onze gebruikers.</p>
+            <div class="product-items">
+                <div v-for="(product, index) in popularProducts" :key="product.id">
+                    <product-card :product="product" />
+                </div>
             </div>
         </div>
     </div>
@@ -20,9 +22,8 @@ export default {
     inject: ['producten'],
     computed: {
         popularProducts() {
-            // Sort products by stock in descending order and take the top 4
             return this.producten
-                .slice() // Create a copy to avoid modifying the original array
+                .slice()
                 .sort((a, b) => b.stock - a.stock)
                 .slice(0, 4);
         },

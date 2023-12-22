@@ -8,7 +8,7 @@
             <div class="filter-container">
                 <ul class="filter-options">
                     <li>
-                        <span class="filter-label">Type materiaal:</span>
+                        <span class="filter-label">{{ filterLabel1 }}</span>
                         <ul>
                             <li v-for="material in materials" :key="material">
                                 <label>
@@ -19,7 +19,7 @@
                         </ul>
                     </li>
                     <li>
-                        <span class="filter-label">Grootte kast:</span>
+                        <span class="filter-label">{{ filterLabel2 }}</span>
                         <ul class="column">
                             <li v-for="size in caseSizes" :key="size">
                                 <label>
@@ -30,10 +30,11 @@
                         </ul>
                     </li>
                 </ul>
-                <button @click="resetFilters" class="reset-button">Reset</button>
+                <button @click="resetFilters" class="reset-button">{{ resetButton }}</button>
             </div>
+            <div class="product-items">
             <product-card v-for="(product, index) in paginatedProducts" :key="product.id" :product="product" />
-
+            </div>
             <div class="pagination">
                 <button @click="prevPage" :disabled="currentPage === 1">Vorige</button>
                 <span>{{ currentPage }}</span>
@@ -53,6 +54,9 @@ export default {
     inject: ['producten'],
     data() {
         return {
+            filterLabel1: "Type materiaal:",
+            filterLabel2: "Grootte kast:",
+            resetButton: "Reset",
             productsPerPage: 8,
             currentPage: 1,
             materials: ["Oystersteel", "Yellow gold", "White gold", "Platinum", "Everose gold"],

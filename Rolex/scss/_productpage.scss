@@ -157,20 +157,6 @@ img {
   }
 }
 
-.btn-cart {
-  border: 1px solid $border-color_1;
-  padding: 8px 0;
-  width: 125px;
-  text-transform: uppercase;
-  cursor: pointer;
-  transition: all 0.6s ease;
-  background: $background-color_4;
-  &:hover {
-    background: $background-color_3;
-    color: $color_1;
-  }
-}
-
 .product-info {
   background: $background-color_4;
   padding: 15px;
